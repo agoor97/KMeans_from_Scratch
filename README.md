@@ -2,4 +2,4 @@
 
 ### Implementation of KMeans form Scratch through simple Steps
 
-https://github.com/AGOOR97/KMeans_from_Scratch/issues/1#issue-982196762
+![kmeans](https://user-images.githubusercontent.com/81787449/131264581-4880ad42-f11e-442b-a171-e6b84bd13925.png)
